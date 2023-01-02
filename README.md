@@ -1,4 +1,4 @@
-# ![Build Status](Images/SoSmart.png)
+# ![Build Status](images/SoSmart.png)
 # Türkçe
 
 - [Scratch IDE için Roboost Maker kart paketi](#scratch-ide-için-robust-maker-kart-paketi)
@@ -47,15 +47,15 @@ veya
 
 Tüm işlemler sonucunda S4A(Scratch for Arduino) yazılımı Roboost Geliştirme kartına uyumlu olarak çalıştırılır.
 
-![1](Images/Roboost_S4R_1.PNG)
+![1](images/Roboost_S4R_1.PNG)
 
 Yukarıdaki örnekte 13 numaralı pine bağlı olan ledi 1 saniye aralıklarla yakıp söndüren Scratch blokları görsel olarak eklenmiştir.
 
-![2](Images/Roboost_S4R_2.PNG)
+![2](images/Roboost_S4R_2.PNG)
 
 Yukarıdaki görselde Roboost Sensör bloklarının Scratch da nasıl seçileceği gösterilmiştir.
 
-![3](Images/Roboost_S4R_3.PNG)
+![3](images/Roboost_S4R_3.PNG)
 
 Yukarıdaki görselde Roboost Sensör kartlarının ve Roboost Geliştirme kartlarının bloklar halinde "Kostümler" menüsüne eklenmiş hali gösterilmektedir.
 
@@ -105,9 +105,9 @@ Bu döküman Geliştirme Kart'ının tanımını ve çalışma prensibini açık
 
 ### Mekanik
 
-![gkd](Images/gkd.png)
-![gk3dön](Images/gk3dön.png)
-![gk3darka](Images/gk3darka.png)
+![gkd](images/gkd.png)
+![gk3dön](images/gk3dön.png)
+![gk3darka](images/gk3darka.png)
 
 ### Pin Açıklamaları
 
@@ -164,7 +164,7 @@ Bu döküman Geliştirme Kart'ının tanımını ve çalışma prensibini açık
 
 ### Geliştirme Kartı Pin Şeması
 
-![gk1](Images/GK1.jpg)
+![gk1](images/GK1.jpg)
 
 ### Genel Bakış 
 
